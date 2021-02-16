@@ -1,6 +1,6 @@
 { BusPositions: 
    [ { VehicleID: '7033',
-       Lat: 38.948132,
+       Lat: 38.948142,
        Lon: -76.736732,
        Deviation: -4,
        DateTime: '2016-03-30T19:42:20',
